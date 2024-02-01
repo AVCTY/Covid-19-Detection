@@ -14,7 +14,7 @@
 </p>
 
 ## Results
-<img src="https://github.com/AVCTY/Covid-19-Detection/assets/77198012/4acaae3c-1f10-4402-9055-d64247fd10ac" width="300"/>
+<img src="https://github.com/AVCTY/Covid-19-Detection/assets/77198012/4acaae3c-1f10-4402-9055-d64247fd10ac" width="470"/>
 <br>
 <img src="https://github.com/AVCTY/Covid-19-Detection/assets/77198012/0c64ee94-bac9-49ff-a435-4fb50dc73255" width="470"/>
 <br>
