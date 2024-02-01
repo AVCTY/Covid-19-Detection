@@ -1,2 +1,4 @@
 # Covid-19-Detection
-Covid-19 detection system for lung CT scans
+<p align="justify">
+  Covid-19 detection system using lung CT scans as inputs.
+</p>
